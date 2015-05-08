@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+
+</head>
+<body>
+<p class="pad10" data-fusion="fusionchart" data-strurl="/Common/assets/components/patterns/javascript/fusionchartjson.json"></p>
+<!-- <p class="js-fusion pad10"></p> -->
+<script type="text/javascript">
+	$(function(){
+		$(".js-fusion").fusionchart({
+			strUrl: "/Common/assets/components/patterns/javascript/fusionchartjson1.json"
+		});
+	});
+</script>
+</body>
+</html>
