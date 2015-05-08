@@ -1,0 +1,54 @@
+{
+	"linearQuotes":{
+		"chart":{
+			"bgColor":"ffffff",
+			"upperlimit":46,
+			"showBorder":"0",
+			"showValues":"0",
+			"showtickvalues":"0",
+			"showLimits":"1",
+			"chartleftmargin":"20",
+			"chartrightmargin":"20",
+			"lowerLimitDisplay":"May 02",
+			"upperLimitDisplay":"Jun 07",
+			"adjustTM":"0",
+			"showShadow":"0",
+			"gaugeFillMix":"{light}",
+			"pointerRadius":"5",
+			"valueAbovePointer":"0"
+		},
+		"colorrange":{
+			"color":[
+				{
+					"minvalue":"0",
+					"maxvalue":0,
+					"code":"588f40"
+				},{
+					"minvalue":0,
+					"maxvalue":26,
+					"code":"eaa022"
+				},{
+					"minvalue":26,
+					"maxvalue":46,
+					"code":"c0262c"
+				}
+			]
+		},
+		"pointers":{
+			"pointer":{
+				"value":36,
+				"toolText":"May 05"
+			}
+		},
+		"trendpoints":{
+			"point":{
+				"startvalue":26,
+				"displayvalue":"May 08",
+				"thickness":"2",
+				"color":"000000"
+			}
+		}
+	},
+	"vacant_days":"3",
+	"Quotes":"0"
+}
